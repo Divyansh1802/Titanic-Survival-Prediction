@@ -1,6 +1,5 @@
-================================================================================
+
 🚢 TITANIC SURVIVAL PREDICTION PROJECT     by-Divyansh Upadhyay
-================================================================================
 
 📌 Project Description:
 ------------------------
@@ -12,7 +11,6 @@ ticket class, fare, family size, embarkation port, and more. Using this data,
 multiple supervised learning models were trained and evaluated to determine
 which algorithm performs best for survival prediction.
 
-================================================================================
 📂 Dataset Information:
 ------------------------
 The dataset includes the following important features:
@@ -36,7 +34,6 @@ Survived
 0 -> Did Not Survive
 1 -> Survived
 
-================================================================================
 🔍 Project Workflow:
 ---------------------
 
@@ -74,7 +71,6 @@ Survived
    - F1-Score
    - Model comparison
 
-================================================================================
 🤖 Machine Learning Models Used:
 ----------------------------------
 
@@ -102,7 +98,6 @@ Survived
    - Effective in high-dimensional spaces
    - Works well with proper kernel selection
 
-================================================================================
 📊 Results:
 ------------
 Each model was trained and tested on the dataset.
@@ -113,7 +108,6 @@ The comparison helps determine:
 - Which model generalizes better
 - How different algorithms behave on structured tabular data
 
-================================================================================
 🎯 Objective:
 --------------
 The main goal of this project is to:
@@ -122,7 +116,6 @@ The main goal of this project is to:
 - Practice data preprocessing and feature engineering
 - Improve predictive modeling skills
 
-================================================================================
 🛠 Technologies Used:
 ----------------------
 - Python
